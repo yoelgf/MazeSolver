@@ -1,0 +1,6 @@
+The solution is written using C#.
+1.Open it on Visual Studio.
+2.Execute.
+3.In runtime you will be asked for the maze´s file path or to type exit to end the program.
+4.The console will display the solution,if it exists, otherwise it will read "NO SOLUTION".
+5.The program will return to point 3.
