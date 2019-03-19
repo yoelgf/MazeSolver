@@ -1,0 +1,7 @@
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb
+C:\Users\yoelg\source\repos\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csprojAssemblyReference.cache
